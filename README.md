@@ -31,3 +31,7 @@ Bu layihə **HTML**, **CSS** və **JavaScript**-dən istifadə edərək hazırla
 
 ![Resmin Açıklaması](./presentation/poster.png)
 ![Resmin Açıklaması](./presentation/screen-1.png)
+
+## YouTube Video
+
+[![Video başlığı](https://img.youtube.com/vi/JsnGg-CJzKs/maxresdefault.jpg)](https://www.youtube.com/watch?v=JsnGg-CJzKs)
