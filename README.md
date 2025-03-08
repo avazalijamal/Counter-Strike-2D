@@ -27,7 +27,7 @@ Bu layihə **HTML**, **CSS** və **JavaScript**-dən istifadə edərək hazırla
 1. **Repo-nu klonlayın:**
 
    ```bash
-   git clone https://github.com/sizin-istifadeci-adi/oyun-repo.git
+   git clone https://github.com/avazalijamal/Counter-Strike-2D.git
 
 ![Resmin Açıklaması](./presentation/poster.png)
 ![Resmin Açıklaması](./presentation/screen-1.png)
